@@ -33,9 +33,16 @@
          See: https://developers.google.com/maps/documentation/android/start
          for instructions on how to get your own key.
         -->
+        
+        <!-- Vipul's key -->
+      <!--   <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBJJW-mptTEJ2Zx3BqGv7ha3Rn0S2QjifY" /> -->
+        <!-- Vishal's key -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyBHsxQW4pjJme-HDzpO4--FsQRLNyT9tFw" />
+            android:value="AIzaSyAYBrNumV1OTK60s9Ac5JSFm3wUBl4faQY" />
+       
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
