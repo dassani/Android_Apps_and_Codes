@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="header_default_bg">#FFD3D3D3</color>
+    <color name="color_notificationpanel">#FFCB97</color>
+    <color name="list_divider">#D0D0D0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#C00000</color>
+    <color name="orange">#FA8525</color>
+    <color name="blue">#007DC6</color>
+    <color name="orange_lite">#FFBB82</color>
+    <color name="deep_brown">#632523</color>
+    <color name="deep_red">#940606</color>
+    <color name="grey">#7F7F7F</color>
+    <color name="lite_grey">#CCCCCC</color>
+    <color name="blue_lite">#82CAFF</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="green">#4A8018</color>
+    <color name="dark_blue">#0000FF</color>
+    <color name="text_grey">#6B6D6E</color>
+    <color name="greyish_white">#EAEAEA</color>
+    <color name="grey_shade">#C1C1C1</color>
+    <color name="brown">#7E3500</color>
+    <color name="smoke_grey">#E5E5E5</color>
+</resources>

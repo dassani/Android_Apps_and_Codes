@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExpenseXpress</string>
+    <string name="action_settings">Settings</string>
+    <string name="strDate">Date: </string>
+    <string name="strExpenseType">Expense Type:</string>
+    <string name="strFoodExpense">Food Expense: </string>
+    <string name="strFuelExpense">Fuel Expense: </string>
+    <string name="strShoppingExpense">Shopping Expense: </string>
+    <string name="strMiscExpense">Misc Expense: </string>
+    <string name="strAdd">Add</string>
+    <string name="strShow">Show Expenses</string>
+    <string name="strHide">Hide Expenses</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
